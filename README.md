@@ -1,7 +1,8 @@
 # Habit Tracker App
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
 
-##prajwal jawanjal
+prajwal
+![Screenshot (776)](https://github.com/Pjborntoshine/habit-tracker-master/blob/81a3fc585e52f8978ed15ffa475d88466fbc7961/Screenshot%20(776).png)
 
 ## Technologies Used
 1.  NodeJS
@@ -17,7 +18,9 @@
 
 ## Installation
 
+##### Clone the latest Repository
 
+`git clone https://github.com/Pjborntoshine/habit-tracker-master.git`
 
 ##### Into the project directory
 
@@ -59,7 +62,7 @@ habit-tracker <br>
 │ --- ├── register.ejs <br>
 │ --- └── welcome.ejs <br>
 ├── .gitignore <br>
-├── app.js <br>
+├── index.js <br>
 ├── package.json <br>
 ├── package-lock.json <br>
 └── README.md <br>
